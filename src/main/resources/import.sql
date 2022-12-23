@@ -1,0 +1,2 @@
+INSERT INTO clientes(id_cliente, nombre_cliente, apellido_cliente, correo_cliente, fecha_creacion) VALUES(1, 'Aquiles', 'Bailo', 'aqui.bailos@duocuc.cl', '2022-01-03');
+INSERT INTO clientes(id_cliente, nombre_cliente, apellido_cliente, correo_cliente, fecha_creacion) VALUES(2, 'Constantina', 'Baeza', 'cons.baeza@duocuc.cl', '2021-11-21');
